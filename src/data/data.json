@@ -1,10 +1,10 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "Aneka Busa",
+    "paragraph": "Kamu membutuhkan busa yang empuk ? apa yang nyaman ? Disini SOLUSINYA"
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "Aneka Busa berdiri pada tahun 2006, yang berlokasi di wilayah Tangerang. Aneka Busa bekerja sama dengan beberapa pabrik busa yang terpercaya kualitas dan keunggulan produknya, sehingga kami bisa menjadi agen busa dan menjadi supplier busa yang memiliki berbagai keunggulan terutama di harga, produk, dan ketepatan waktu pengiriman sehingga Anda bisa melakukan produksi tepat waktu, pada tahun 2008 kami melakukan expansi dibidang laminating foam, pelayanan produk-prokduk elektronik dengan teknologi tinggi, pelayanan development untuk kontraktor-kontraktor dengan berbagai macam material polyurethane,eva foam. dan pada tahun 2009 kami melakukan expansi lagi di bidang BRA CUP (general, anti yellow, dan anti bakteri) yang tidak kalah banyak-nya permintaan pasar.",
     "Why": [
       "Lorem ipsum dolor",
       "Tempor incididunt",
@@ -21,87 +21,65 @@
   "Services": [
     {
       "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "BERAGAM PILIHAN",
+      "text": "Kami menawarkan berbagai macam produk furniture Aneka Busa dengan bahan baku busa anti kempes."
     },
     {
       "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "BERGARANSI",
+      "text": "Produk yang kami jual bergaransi sampai dengan 15 tahun."
     },
     {
       "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "GRATIS ONGKIR",
+      "text": "Kami menawarkan bebas ongkos kirim untuk pengiriman se-jabodetabek."
     },
     {
       "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "BEBAS CICILAN DAN HARGA TERJANGKAU",
+      "text": "Harga murah bahkan bisa dicicil sampai 10x tanpa bunga alias 0%."
     },
     {
       "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "PRODUK BERKUALITAS TINGGI",
+      "text": "Produk kami diproduksi dengan kualitas terbaik, sehingga lebih awet."
     },
     {
       "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "BANYAK MANFAAT",
+      "text": "Tidur dengan nyaman, nyenyak dan selalu bugar setiap hari."
     }
   ],
   "Testimonials": [
     {
-      "img": "img/testimonials/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "img": "img/testimonials/01.jpeg",
+      "text": "\"Sangat puas belanja disini. proses nya sangat cepat dan customer service nya juga fast respon banget, kasur nya sangat emput dan nyaman digunakan.\"",
+      "name": "Hamzah Wibowo"
     },
     {
       "img": "img/testimonials/02.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "\"Pelayanan Yang Cukup Memuaskan. Tepat Waktu. Barang Yang Dipilih Semua Sesuai.\"",
+      "name": "Putra Wijaya"
     },
     {
       "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "\"Terima Kasih atas pelayanan yang baik, ramah. Informasi Produk Jelas, Sesuai Dengan Yang Kami Perlukan. Kecepatan Mengantar Barang Ke Rumah Juga Sesuai Perjanjian.\"",
+      "name": "Anton Purnomo"
     },
     {
       "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "\"Pelayanannya Bagus dan Harganya Bersaing, Lebih Murah Dibandingkan Dengan Toko Lain. Untuk Barangnya Dijamin Tidak Menyesal. Terima Kasih .\"",
+      "name": "Adinda Putri"
     },
     {
-      "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "img": "img/testimonials/05.webp",
+      "text": "\"Pokoknya kalau mau beli spring bed yang bagus, materialnya berkualitas, nyaman, dan harganya murah, langsung pilih kasur ANEKA BUSA aja. Apalagi ANEKA BUSA ini nih bagus banget. Selama gue pakai kasur ANEKA BUSA di rumah itu bikin tidur jadi nyenyak, pas bangun langsung segar badannya.\"",
+      "name": "Indra Pratama"
     },
     {
       "img": "img/testimonials/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
-    }
-  ],
-  "Team": [
-    {
-      "img": "img/team/01.jpg",
-      "name": "John Doe",
-      "job": "Director"
-    },
-    {
-      "img": "img/team/02.jpg",
-      "name": "Mike Doe",
-      "job": "Senior Designer"
-    },
-    {
-      "img": "img/team/03.jpg",
-      "name": "Jane Doe",
-      "job": "Senior Designer"
-    },
-    {
-      "img": "img/team/04.jpg",
-      "name": "Karen Doe",
-      "job": "Project Manager"
+      "text": "\"Pelayanan Ramah, Bersahabat. Jadi enak ke kita2nya sebagai pembeli. Disconnya Sangat Puas. Pokoknya Pas. Moga Jadi Langganan Kedepannya ya. Ditunggu Informasi Diskon Terbarunya..\"",
+      "name": "Jennie Halimah"
     }
   ],
   "Contact": {
@@ -115,23 +93,23 @@
   "Features": [
     {
       "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "GRATIS ONGKOS KIRIM",
+      "text": "Kami mendukung pengiriman gratis untuk wilayah Jadebotabek dan tanpa syarat pembelian."
     },
     {
       "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "FAST RESPON",
+      "text": "Kami sangat menjunjung tinggi untuk melayani calon pembeli."
     },
     {
       "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "CICILAN BUNGA 0%",
+      "text": "Kami meminimalisir riba di toko kami."
     },
     {
       "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "DISKON UNTUK PEMBELIAN PERTAMA",
+      "text": "Kami menawarkan diskon untuk para agensi dan reseller."
     }
   ]
 }
